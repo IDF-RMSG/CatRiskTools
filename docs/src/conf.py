@@ -18,11 +18,11 @@ sys.path.insert(0, os.path.abspath(".."))
 
 # -- Project information -----------------------------------------------------
 
-project = "Oasis Risk Explorer"
+project = "IDF CatRiskTools"
 #copyright = ""
 author = "Insurance Development Forum and Oasis"
-html_title = "Oasis Risk Explorer"
-html_short_title = "Oasis Risk Explorer"
+html_title = "IDF CatRiskTools"
+html_short_title = "IDF CatRiskTools"
 
 
 
