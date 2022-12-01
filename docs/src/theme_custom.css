@@ -1,0 +1,7 @@
+/** css/yourtheme.css **/
+
+/* This line is theme specific - it includes the base theme CSS */
+@import '../theme.css'; /* for the Read the Docs theme */
+
+
+.wy-nav-top{display:none;background:#e7234e;color:#2734e;padding:.4045em .809em;position:relative;line-height:50px;text-align:center;font-size:100%;}
