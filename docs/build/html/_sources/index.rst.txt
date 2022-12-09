@@ -11,7 +11,7 @@ Searches can be carried out using the drop down boxes, by clicking on the map, o
 Models matching the search are shown at the bottom of the screen. By clicking on a model record, users will see further detail on that model, in a new screen.
 
 
-CatRiskTools was developed by the Insurance Development Forum (IDF) Risk Modelling Steering Group (RMSG) and is maintained by IDF and RenaissanceRe
+CatRiskTools was developed by the `Insurance Development Forum (IDF) Risk Modelling Steering Group (RMSG) <https://www.insdevforum.org/working-groups/rmsg/>`_ and is maintained by IDF RMSG and RenaissanceRe.
 
 The dataset can be interrogated as a Tableau workbook, located at ...
 
