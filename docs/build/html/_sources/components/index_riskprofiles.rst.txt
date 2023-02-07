@@ -3,8 +3,8 @@ Risk profiles
 
 These sources provide risk profiles which provide the results of previous risk analyses. They can be used to understand the distribution and drivers of risk in many countries. 
 
-Note the date of publication and level of analysis. Frequently, risk profiles are conducted at national scale, with regional and/or global data and assumptions. 
-While they provide a reasonable estiamte, they are frequently not intended for detailed design of infrastructure or adaptation strategies.
+Frequently, risk profiles are conducted at national scale, with regional and/or global data and assumptions. 
+While they provide a reasonable estimate, they are frequently not intended for detailed design of infrastructure or adaptation strategies. It is important to understand the methods, date of analysis and level of analysis before use. 
 
 
 .. list-table:: Risk profiles
