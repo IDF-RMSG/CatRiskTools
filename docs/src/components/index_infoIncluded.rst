@@ -8,6 +8,6 @@ For each model in CatRiskTools, you can find information such as:
 * The model provider and their contact details
 * The licence under which the model is available
 * Whether or not the model is available on the Oasis Loss Modelling Framework
-* Year of release / update
+* Year of release and latest update
 * Whether or not the model has a financial module for modelling insurance policies / contract terms
-
+... and much more
