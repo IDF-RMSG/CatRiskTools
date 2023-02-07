@@ -8,7 +8,7 @@ While they provide a reasonable estiamte, they are frequently not intended for d
 
 
 .. list-table:: Risk profiles
-   :widths: 25 25 25
+   :widths: 15 15 15
    :header-rows: 1
 
    * - Source
