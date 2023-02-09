@@ -45,7 +45,7 @@ For each model in CatRiskTools, you can also find technical information includin
 Risk profiles and global risk analysis platforms
 -------------------------------------------------
 
-CatRiskTools does not include risk analysis platforms which enable risk analysis do not provide an off-the-shelf model to use, or risk profiles, which present the results and interpretation of risk analyses. Please see the page 'Related resources for key sources of risk profiles and platforms.
+CatRiskTools does not include risk analysis platforms which enable risk analysis do not provide an off-the-shelf model to use, or risk profiles, which present the results and interpretation of risk analyses. This section provides some for key sources of risk profiles and platforms.
 
 
 ** *Global risk analysis platforms* **
