@@ -19,6 +19,14 @@ Models matching the search are shown at the bottom of the screen. Click on a mod
 CatRiskTools was developed by the `Insurance Development Forum (IDF) Risk Modelling Steering Group (RMSG) <https://www.insdevforum.org/working-groups/rmsg/>`_ and is maintained by IDF RMSG and RenaissanceRe.
 
 
+Feedback
+---------
+
+We welcome feedback on the catalogue and its contents. If you want to see new information or features, or know of a model or vendor not included yet, please let us know using this `short form <https://docs.google.com/forms/d/e/1FAIpQLSdsrJlm4IKEuMpYseIEuDdrNZeSfHRXxmYbjIzUtnPJKtxCkg/viewform?usp=sf_link>`_.
+
+
+
+
 What does CatRiskTools contain?
 ---------------------------------
 
