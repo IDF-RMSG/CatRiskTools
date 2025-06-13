@@ -11,9 +11,9 @@ Searches can be carried out using the drop down boxes, by clicking on the map, o
 Models matching the search are shown at the bottom of the screen. Click on a model record to see more technical details and contact information to access the model.
 
 
-.. image:: docs_img/CRT_shot_feb2023.png
+.. image:: docs_img/CRT_Jun2025.png
   :width: 700
-  :alt: Screenshot of CatRiskTools
+  :alt: Screenshot of CatRiskTools at June 2025
 
 
 CatRiskTools was developed by the `Insurance Development Forum (IDF) Risk Modelling Steering Group (RMSG) <https://www.insdevforum.org/working-groups/rmsg/>`_ and is maintained by IDF RMSG and RenaissanceRe.
@@ -30,7 +30,7 @@ We welcome feedback on the catalogue and its contents. If you want to see new in
 What does CatRiskTools contain?
 ---------------------------------
 
-CatRiskTools provides listings of models developed for a particular country and peril/hazard, which are available to run 'off-the shelf'. It includes models available under open licence and commercially licenced models.
+CatRiskTools provides listings of models developed for a particular country and peril/hazard, which are available to run 'off-the shelf'. It includes models available under open licence and commercially licensed models.
 
 Using CatRiskTools you can quickly understand:
 

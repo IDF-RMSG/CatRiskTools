@@ -18,11 +18,11 @@ sys.path.insert(0, os.path.abspath(".."))
 
 # -- Project information -----------------------------------------------------
 
-project = "IDF CatRiskTools"
+project = "CatRiskTools"
 #copyright = ""
 author = "Insurance Development Forum and Oasis"
-html_title = "IDF CatRiskTools"
-html_short_title = "IDF CatRiskTools"
+html_title = "CatRiskTools"
+html_short_title = "CatRiskTools"
 
 
 
@@ -53,8 +53,8 @@ html_show_copyright = False
 # so a file named "default.css" will overwrite the builtin "default.css".
 #html_static_path = ["_static"]
 #html_css_files = "src/theme.css"
-html_favicon = "idf_square.ico"
-html_logo = "IDF_Original.jpg"
+html_favicon = "IDFIcon_2025.png"
+html_logo = "IDFlogo_whitereddot_RGB_v1.png"
 
 
 
